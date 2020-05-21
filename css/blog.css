@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color: gray;
+    font-family: Arial;
+    color: black;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -20,3 +20,18 @@ body{
     font-size: 20px;
 
 }
+
+#cabecera{
+    background-color: burlywood;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline{
+    margin: 0 0 0 0;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
