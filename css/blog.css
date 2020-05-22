@@ -45,5 +45,9 @@ body{
 #post{
     background-color: white;
     padding: 1em;
-
+}
+#footer{
+    border: solid 1px rgb(206, 182, 152);
+    text-align: center;
+    background-color: burlywood;   
 }
